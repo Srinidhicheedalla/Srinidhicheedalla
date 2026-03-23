@@ -141,27 +141,7 @@ Currently working on pushing clean, documented code for all projects. Stay tuned
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srinidhicheedalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=contribs"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhicheedalla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Srinidhicheedalla&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srinidhicheedalla&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
