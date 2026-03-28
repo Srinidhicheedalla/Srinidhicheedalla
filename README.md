@@ -1,8 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=180&section=header&text=Srinidhi%20Cheedalla&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=17)
-
-</div>
 
 <div align="center">
 
