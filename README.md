@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E5BBA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Srinidhi+Cheedalla!;Aspiring+Software+Engineer;AI+%26+ML+Graduate+2025;Building+Real-World+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinidhi-cheedalla-260724401/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2347a0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Srinidhicheedalla.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2347a0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srinidhicheedalla-github-io.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinidhicheedalla@gmail.com)
 [![Location](https://img.shields.io/badge/Hyderabad,_India-2E5BBA?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -150,7 +150,7 @@ Smart home lighting with PIR sensors and MQTT remote control — reduces energy 
 **I'm actively looking for my first full-time role in Software Engineering, AI/ML and Full Stack Development!**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinidhi-cheedalla-260724401/)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-2347a0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Srinidhicheedalla.github.io)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-2347a0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srinidhicheedalla-github-io.vercel.app/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinidhicheedalla@gmail.com)
 
 </div>
